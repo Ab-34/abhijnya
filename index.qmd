@@ -1,0 +1,55 @@
+---
+title: "Abhijnya Bhat"
+# listing:
+#   contents: posts
+#   sort: "date desc"
+#   type: default
+#   categories: true
+#   sort-ui: false
+#   filter-ui: false
+page-layout: full
+# title-block-banner: true
+image: profile.png
+about: 
+  id: abhijnya-header
+  template: trestles
+  image-width: 10em
+  links:
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/abhijnya-bhat/
+    - icon: mortarboard-fill
+      text: google scholar
+      href: https://scholar.google.com/citations?user=hDY-fTkAAAAJ&hl=en
+    - icon: envelope-fill
+      text: personal mail
+      href: mailto:abhijnya.bhat@gmail.com
+    
+---
+
+:::{#abhijnya-header}
+
+
+<!-- <div style="text-align: justify">  -->
+
+
+
+<!-- </div> -->
+
+:::
+
+
+### News
+
+- **Nov 2024:** Serving as a reviewer for ICLR 2025
+- **Aug 2024:** Joined Qualcomm as an AI Engineer
+- **Jun 2024:** Our paper [Balancing Act](https://arxiv.org/abs/2402.18206) which debiases diffusion models got accepted at [CVPR'24!](https://cvpr.thecvf.com/)
+- **Jun 2023:** Joined Vision and AI Lab, IISc as a Research Assistant
+- **May 2023:** Our work on [Deep Learning for Crop Price Prediction](https://arxiv.org/pdf/2304.09761) got accepted at [IEEE CASE'23!](https://case2023.org/)
+- **Jan 2023:** Started my internship at the the GRAMA Lab, IISc
+
+## Education
+
+**PES University** | Bangalore, India \
+_Bachelor of Technology in Computer Science and Engineering_ \
+<small>CGPA: 9.55 (Top 2% of my batch)</small> \

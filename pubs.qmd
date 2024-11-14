@@ -1,0 +1,65 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+<style>
+  .citation {
+    display: none;
+  }
+  .show-citation {
+    display: block;
+  }
+</style>
+
+<script>
+  function toggleCitation(id) {
+    var citationDiv = document.getElementById("citation-" + id);
+    citationDiv.classList.toggle("show-citation");
+  }
+</script>
+
+[Google Scholar](https://scholar.google.com/citations?user=hDY-fTkAAAAJ&hl=en)\
+\
+\
+**Selected Publications:**  \
+
+**Balancing Act: Distribution-Guided Debiasing in Diffusion Models** \
+_CVPR 2024_ \
+Rishubh Parihar\*, **Abhijnya Bhat\***, Abhipsa Basu, Saswat Mallick, Jogendra Nath Kundu,  R. Venkatesh Babu \
+<a href="https://arxiv.org/abs/2402.18206" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://ab-34.github.io/balancing_act/" type="button" class="btn btn-outline-primary btn-sm">website</a>
+<a href="https://github.com/rishubhpar/debiasing_gen_models" type="button" class="btn btn-outline-primary btn-sm">code</a>
+<button onclick="toggleCitation('balance')" class="btn btn-outline-primary btn-sm">bib</button>
+
+<div id="citation-balance" class="citation">
+  ```bib
+  @inproceedings{parihar2024balancing,
+  title={Balancing Act: Distribution-Guided Debiasing in Diffusion Models},
+  author={Parihar, Rishubh and Bhat, Abhijnya and Basu, Abhipsa and Mallick, Saswat and Kundu, Jogendra Nath and Babu, R Venkatesh},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6668--6678},
+  year={2024}
+}
+  ```
+</div>
+
+
+**An Innovative Deep Learning Based Approach for Accurate Agricultural Crop Price Prediction** \
+_IEEE CASE 2023_ \
+Mayank R Bhardwaj, Jaydeep Pawar, **Abhijnya Bhat**, Deepanshu, Inavamsi Enaganti, Kartik Sagar and Y. Narahari \
+<a href="https://arxiv.org/pdf/2304.09761" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<button onclick="toggleCitation('prepare')" class="btn btn-outline-primary btn-sm">bib</button>
+
+<div id="citation-prepare" class="citation">
+  ```bib
+  @inproceedings{bhardwaj2023innovative,
+  title={An Innovative Deep Learning Based Approach for Accurate Agricultural Crop Price Prediction},
+  author={Bhardwaj, Mayank Ratan and Pawar, Jaydeep and Bhat, Abhijnya and Enaganti, Inavamsi and Sagar, Kartik and Narahari, Y and others},
+  booktitle={2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)},
+  pages={1--7},
+  year={2023},
+  organization={IEEE}
+}
+  ```
+</div>

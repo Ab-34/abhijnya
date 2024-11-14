@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Abhijnya Bhat",
+    "section": "",
+    "text": "linkedin\n  \n  \n    \n     google scholar\n  \n  \n    \n     personal mail"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Abhijnya Bhat",
+    "section": "Education",
+    "text": "Education\nPES University | Bangalore, India\nBachelor of Technology in Computer Science and Engineering\nCGPA: 9.55 (Top 2% of my batch)"
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar\n\n\nSelected Publications:\n\nBalancing Act: Distribution-Guided Debiasing in Diffusion Models\nCVPR 2024\nRishubh Parihar*, Abhijnya Bhat*, Abhipsa Basu, Saswat Mallick, Jogendra Nath Kundu, R. Venkatesh Babu\npaper website code bib\n\n@inproceedings{parihar2024balancing,\ntitle={Balancing Act: Distribution-Guided Debiasing in Diffusion Models},\nauthor={Parihar, Rishubh and Bhat, Abhijnya and Basu, Abhipsa and Mallick, Saswat and Kundu, Jogendra Nath and Babu, R Venkatesh},\nbooktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},\npages={6668--6678},\nyear={2024}\n}\n\nAn Innovative Deep Learning Based Approach for Accurate Agricultural Crop Price Prediction\nIEEE CASE 2023\nMayank R Bhardwaj, Jaydeep Pawar, Abhijnya Bhat, Deepanshu, Inavamsi Enaganti, Kartik Sagar and Y. Narahari\npaper bib\n\n@inproceedings{bhardwaj2023innovative,\ntitle={An Innovative Deep Learning Based Approach for Accurate Agricultural Crop Price Prediction},\nauthor={Bhardwaj, Mayank Ratan and Pawar, Jaydeep and Bhat, Abhijnya and Enaganti, Inavamsi and Sagar, Kartik and Narahari, Y and others},\nbooktitle={2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)},\npages={1--7},\nyear={2023},\norganization={IEEE}\n}"
+  }
+]
