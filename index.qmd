@@ -31,6 +31,11 @@ about:
 
 
 <!-- <div style="text-align: justify">  -->
+My research interest is broadly in Computer Vision. Specifically, I am interested generative models and their application in various discriminative tasks.
+
+
+
+I am currently working as an AI Engineer at Qualcomm. Previously, I worked as a Research Assistant at the Vision and AI Lab (VAL), at the Indian Institute of Science (IISc) under Prof. Venkatesh Babu.
 
 
 
